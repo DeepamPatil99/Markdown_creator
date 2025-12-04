@@ -12,7 +12,7 @@ Markdown Writer is a React app that allows you to create, edit, and manage your 
 
 ## Demo
 
- ###  Landing Page
+ ##  Landing Page
 
  <img src="./img/01.png" alt="Landing Page" width="800px" height="auto">
 
@@ -24,7 +24,7 @@ Markdown Writer is a React app that allows you to create, edit, and manage your 
 
 <img src="./img/03.png" alt="Edit a Note" width="800px" height="auto">
     
-   ###  Preview a Note
+   ##  Preview a Note
 
 <img src="./img/02.png" alt="Preview a Note" width="800px" height="auto">
     
