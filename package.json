@@ -1,6 +1,11 @@
 {
   "name": "markdown-creator",
   "version": "1.0.0",
+  "author": "deepam patil <patil1deepam12543@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeepamPatil99/Markdown_creator.git"
+  },
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
